@@ -14,4 +14,8 @@ export class EducationComponent implements OnInit {
     Aos.init();
   }
 
+  Collage="assets/images/collage.png";
+  School="assets/images/school.png";
+  Graduate="assets/images/graduation.png"
+
 }
