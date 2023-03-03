@@ -13,6 +13,6 @@ export class IndexComponent implements OnInit {
   }
   title = 'profile';
 
-  imagePath="assets/images/man1.png";
+  imagePath="./assets/images/man1.png";
 
 }
